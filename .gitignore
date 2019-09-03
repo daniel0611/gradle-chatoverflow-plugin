@@ -1,0 +1,9 @@
+.idea
+
+# Gradle
+build
+gradle
+.gradle
+
+# Template project
+template
