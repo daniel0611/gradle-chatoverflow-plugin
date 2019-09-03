@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "com.github.daniel0611"
-version = "0.1-SNAPSHOT"
+version = "0.1"
 
 repositories {
     mavenCentral()
@@ -20,6 +20,7 @@ dependencies {
 pluginBundle {
     website = "https://github.com/daniel0611/gradle-chatoverflow-plugin"
     vcsUrl = "https://github.com/daniel0611/gradle-chatoverflow-plugin.git"
+    tags = listOf("chatoverflow", "kotlin")
 }
 
 gradlePlugin {
