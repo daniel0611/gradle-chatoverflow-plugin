@@ -1,9 +1,9 @@
-.idea
+/.idea/
 
 # Gradle
-build
-gradle
-.gradle
+/build/
+/gradle/
+/.gradle/
 
 # Template project
-template
+/template/
