@@ -1,5 +1,7 @@
 # gradle-chatoverflow-plugin
 
+[![Build Status](https://travis-ci.com/daniel0611/gradle-chatoverflow-plugin.svg?branch=master)](https://travis-ci.com/daniel0611/gradle-chatoverflow-plugin)
+
 A plugin to enable development of [ChatOverflow](https://github.com/codeoverflow-org/chatoverflow) plugins with Gradle.
 
 It was created to be able to create plugins written in [Kotlin](https://kotlinlang.org), because there isn't a sbt 1.x compatible Kotlin compiler plugin yet. The master branch of [pfn/kotlin-plugin](https://github.com/pfn/kotlin-plugin) has support, but isn't yet available as a release. Also I wanted to learn a bit about Gradle.
