@@ -20,7 +20,7 @@ Current status: ***WIP, theoretically usable***
 
 * #### Test plugin on a local bootstrap installation
 
-  Status: ***WIP, depends on official prealpha 3 release***
+  Status: ***WIP***
 
   A `run` Gradle task will download and setup an installation of the specified ChatOverflow version. It builds the jar of the plugin and finally starts the ChatOverflow installation with the plugin copied into the plugin directory. This allows for quick iterative testing of your plugins without the need to copy the jar to an installation every time you make a change. 
 
